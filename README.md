@@ -1,10 +1,10 @@
 ![Support++](https://media.discordapp.net/attachments/318089129307013120/352500865996947466/Support.png)
 
 [![Discord](https://discordapp.com/api/guilds/303663158923493376/widget.png)](https://discord.gg/q3pAcGA)
-[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/cc-nc-sa.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)]()
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()
+[![GitHub license](https://img.shields.io/github/license/Support-pp/Support-pp.svg?style=for-the-badge)](https://github.com/Support-pp/Support-pp/blob/master/LICENSE)
+[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)]()
 
 # Support++
 Advanced Sinusbot Support Script
