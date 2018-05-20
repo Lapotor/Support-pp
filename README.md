@@ -1,10 +1,10 @@
-![Support++](https://media.discordapp.net/attachments/318089129307013120/352500865996947466/Support.png)
+[![Support++](https://media.discordapp.net/attachments/318089129307013120/352500865996947466/Support.png)]()
 
 [![Discord](https://discordapp.com/api/guilds/303663158923493376/widget.png)](https://discord.gg/q3pAcGA)
-[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()
+[![Uses JS](http://forthebadge.com/images/badges/uses-js.svg)]()
+[![Build with love](http://forthebadge.com/images/badges/built-with-love.svg)]()
+[![Check it out](http://forthebadge.com/images/badges/check-it-out.svg)]()
 [![GitHub license](https://img.shields.io/github/license/Support-pp/Support-pp.svg?style=for-the-badge)](https://github.com/Support-pp/Support-pp/blob/master/LICENSE)
-[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)]()
 
 # Support++
 Advanced Sinusbot Support Script
@@ -53,11 +53,11 @@ ______________________________________________________________________
  ______________________________________________________________________
 
 # License
-[![BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](LICENSE.md)
+[![MIT](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/License_icon-mit-88x31-2.svg/320px-License_icon-mit-88x31-2.svg.png)](LICENSE.md)
 
-Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by-nc-sa/4.0/.
+Dieses Material steht unter der MIT-Lizenz. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie https://opensource.org/licenses/MIT/.
 ____________________
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+This work is licensed under the MIT-License. To view a copy of this license, visit https://opensource.org/licenses/MIT.
 
 
 
